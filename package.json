@@ -1,5 +1,5 @@
 {
-  "homepage": "https://KataH02.github.io/valuuttalaskuri/src/App.js",
+  "homepage": "https://KataH02.github.io/valuuttalaskuri",
   "name": "valuuttalaskuri",
   "version": "0.1.0",
   "private": true,
@@ -31,7 +31,7 @@
   "browserslist": {
     "production": [
       ">0.2%",
-      "not dead",
+    "not dead",
       "not op_mini all"
     ],
     "development": [
