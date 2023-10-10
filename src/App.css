@@ -2,7 +2,7 @@ body {
   background-image: url(../img/euro-1353420_1280.jpg);
   display: grid;
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat !important;
   justify-content: center;
 }
 
