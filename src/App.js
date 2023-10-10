@@ -1,6 +1,6 @@
-import { useState } from 'react'
-import './App.css'
-import axios from 'axios'
+import { useState } from 'react';
+import './App.css';
+import axios from 'axios';
 
 
 const URL = "https://api.freecurrencyapi.com/v1/latest?base_currency=EUR&apikey=fca_live_MzyxM9lMzDMLB7fKG2O3fWl3K42bAAFkL68qCMzs"
