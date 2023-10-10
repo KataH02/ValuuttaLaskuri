@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/valuuttalaskuri/static/css/main.27e2d6a4.css",
+    "main.css": "/valuuttalaskuri/static/css/main.3a8d4b92.css",
     "main.js": "/valuuttalaskuri/static/js/main.6a590cd5.js",
     "static/js/787.6143ed63.chunk.js": "/valuuttalaskuri/static/js/787.6143ed63.chunk.js",
     "static/media/euro-1353420_1280.jpg": "/valuuttalaskuri/static/media/euro-1353420_1280.aadf1f27a5c62aa92c04.jpg",
     "index.html": "/valuuttalaskuri/index.html",
-    "main.27e2d6a4.css.map": "/valuuttalaskuri/static/css/main.27e2d6a4.css.map",
+    "main.3a8d4b92.css.map": "/valuuttalaskuri/static/css/main.3a8d4b92.css.map",
     "main.6a590cd5.js.map": "/valuuttalaskuri/static/js/main.6a590cd5.js.map",
     "787.6143ed63.chunk.js.map": "/valuuttalaskuri/static/js/787.6143ed63.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27e2d6a4.css",
+    "static/css/main.3a8d4b92.css",
     "static/js/main.6a590cd5.js"
   ]
 }
